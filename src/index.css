@@ -1,0 +1,9 @@
+body {
+  font-family: "Oswald", sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(90deg, rgba(14,14,17,1) 0%, rgba(36,10,38,1) 0%, rgb(30, 5, 30) 100%, rgba(14,14,17,1) 100%);
+  color:white;
+  text-align: center;
+}
+
